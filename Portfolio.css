@@ -1,0 +1,266 @@
+.portfolio-home-section-banner-button {
+    background-color: #4b6cc1;
+    height: 50px;
+    width: 120px;
+    font-size: 20px;
+    color: #ffffff;
+    font-family: Roboto;
+    border-radius: 8px;
+    margin: 10px;
+}
+
+.portfolio-home-section-navbar {
+    background-color: #9aa5b1;
+}
+.portfolio-aboutme-section {
+    background-color: #323f4b;
+}
+
+.portfolio-aboutme-section-para1{
+    color: #cced00;
+    font-size: 30px;
+    font-weight: 500;
+    margin-top: 20px;
+    margin-left: 20px;
+}
+
+.portfolio-aboutme-section-heading {
+    color: #ffffff;
+    font-weight: 500;
+    margin-left: 20px;
+    margin-bottom: 20px;
+}
+
+.skills-section {
+    background-color: #1f2933;
+    width: 100%;
+}
+.Portfolio-service-section {
+    background-color: #52606d;
+    width: 100%;
+    font-family: Roboto;
+    padding: 10px;
+}
+
+.Portfolio-service-section-card {
+    background-color: #323f4b;
+    padding: 20px;
+    border-radius: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.portfolio-about-me-img {
+    height: 80px;
+    width: 80px;
+    border-radius: 100px;
+}
+
+.Portfolio-Footer-section-aboutme-heading {
+    color: #cced00;
+    font-size: 20px;
+    font-family: Roboto;
+    font-weight: 700;
+}
+
+.Portfolio-Footer-section-aboutme-heading1 {
+    color: #cced00;
+    font-size: 20px;
+    font-family: Roboto;
+    font-weight: 500;
+}
+
+.Portfolio-Footer-section-aboutme-para {
+    color: #9aa5b1;
+    font-size: 15px;
+    font-family: Roboto;
+    font-weight: 300;
+}
+
+.Portfolio-Footer-section-aboutme-logos {
+    color: #9aa5b1;
+    font-size: 18px;
+    margin: 10px
+}
+
+.Portfolio-Footer-section {
+    background-color: #001c32;
+    padding: 20px;
+}
+
+.Portfolio-service-section-card-heading {
+    color: #ffffff;
+    margin-top: 10px;
+    font-size: 30px;
+    font-weight: 700;
+
+}
+.Portfolio-testimonials-section-carousle-picture {
+    height: 150px;
+    width: 150px;
+    border-radius: 100px;
+    margin :10px;
+}
+.Portfolio-testimonials-section{
+    background-color: #323f4b;
+    color: #cced00;
+}
+.Portfolio-testimonials-section-carousle-card {
+    background-color: #323f4b;
+    padding: 10px;
+    margin: auto;
+    text-align: center;
+    color: #ffffff;
+}
+.Portfolio-workdone-section {
+    background-image: url('https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/portfolio-work-done-bg.png');
+    background-size: cover;
+    height: 60vh;
+    padding-top: 40px;
+    padding-bottom: auto;
+}
+
+.Portfolio-workdone-section-card {
+    margin-top: 40px;
+    margin-left: 20px;
+    margin-right: 20px;
+    padding: 10px;
+    color: #ffffff;
+    width: 150px;
+    text-align: center;
+}
+
+.Portfolio-workdone-section-card-hr {
+    background-color: #ffffff;
+    width: 50px;
+}
+
+.Portfolio-service-section-card-para {
+    color: #9aa5b1;
+    margin-top: 10px;
+    font-size: 20px;
+    font-weight: 700;
+}
+
+.Portfolio-service-section-para {
+    color: #cced00;
+    font-size: 18px;
+    margin-top: 10px;
+    font-weight: 600;
+}
+
+.Portfolio-service-section-heading {
+    color: #ffffff;
+    font-size: 40px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    font-weight: 700;
+}
+.portfolio-projects-section-projects-card {
+    background-color: #323f4b;
+    font-family: Roboto;
+    padding: 10px;
+}
+
+.portfolio-projects-section {
+    background-color: #3e4c59;
+    padding: 10px;
+}
+
+.portfolio-projects-section-para {
+    color: #cced00;
+    font-size: 25px;
+    margin-top: 25px;
+    font-weight: 600;
+}
+
+.portfolio-projects-section-projects-card-para3 {
+    color: #cced00;
+    font-size: 18px;
+    margin-top: 25px;
+    margin-bottom: 25px;
+    font-weight: 600;
+}
+
+.portfolio-projects-section-projects-card-para2 {
+    color: #9aa5b1;
+    font-size: 28px;
+    margin-top: 25px;
+    margin-bottom: 25px;
+    font-weight: 600;
+}
+
+.portfolio-projects-section-projects-card-heading {
+    color: #ffffff;
+    font-size: 28px;
+    margin-top: 25px;
+    margin-bottom: 25px;
+    font-weight: 400;
+}
+
+.portfolio-projects-section-projects-card-para1 {
+    color: #9aa5b1;
+    font-size: 15px;
+    margin-top: 25px;
+    margin-bottom: 25px;
+    font-weight: 600;
+}
+
+.portfolio-aboutme-section-skills-para {
+    font-size: 15px;
+    color: #ffffff;
+    text-align: center;
+}
+
+.portfolio-aboutme-section-skills {
+    height: 100px;
+    background-color: #323f4b;
+    width: 100px;
+    margin: 10px;
+    text-align: center;
+    border-radius: 5px;
+}
+
+.portfolio-aboutme-section-img {
+    font-weight: 500;
+    margin-left: 20px;
+    margin-bottom: 20px;
+}
+
+.portfolio-aboutme-section-para {
+    color: #9aa5b1;
+    font-size: 18px;
+    font-weight: 500;
+    margin-top: 20px;
+    margin-left: 20px;
+}
+
+.portfolio-home-section-navbar-logo {
+    background-color: #9aa5b1;
+    font-family: Roboto;
+    font-size: 40px;
+    border-color: #4b6cc1;
+    border-style: solid;
+}
+
+.portfolio-home-section-banner-para {
+    color: #9aa5b1;
+    font-size: 25px;
+    font-family: Roboto;
+    margin: 10px;
+}
+
+.portfolio-home-section-banner-heading {
+    color: #ffffff;
+    font-size: 60px;
+    margin: 10px;
+}
+
+.portfolio-home-section-banner-heading-name {
+    color: blue;
+}
+
+.portfolio-home-section-banner {
+    background-color: #191a1d;
+    height: 100vh;
+    width: 100%;
+}
